@@ -1,0 +1,83 @@
+html, body{
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    background-color: yellow;
+    font-family: 'Mochiy Pop P One';
+}
+.grid{
+    width: 420px;
+    height: 420px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: solid black;
+    border-radius: .5em;
+}
+.grid div{
+    width: 15px;
+    height: 15px;
+
+}
+body h1{
+    text-align: center;
+}
+.cont{
+    max-width: 550px;
+    margin: 0 auto;
+
+}
+.pac-dot{
+    background-color: green;
+    border: 5px solid white;
+    box-sizing: border-box;
+}
+.wall{
+    background-color: blue;
+}
+.power-pellet{
+    background-color: green;
+    border-radius: 7.5px;
+}
+.pacman{
+    background-color: orange;
+    border-radius: 7.5px;
+    border: none;
+}
+.blinky {
+    background-color: red;
+    border: none;
+}
+
+.pinky {
+    background-color: pink;
+    border: none;
+}
+
+.inky {
+    background-color:aqua;
+    border: none;
+}
+
+.clyde {
+    background-color: orange;
+    border: none;
+}
+.scared-ghost {
+    background-color: aquamarine;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
